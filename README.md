@@ -21,13 +21,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/akari-lab">
     <img height="20" src="https://img.shields.io/github/followers/akari-lab?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/akari-lab">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/akari-lab/posts.svg" />
-  </a>
-  <a href="http://qiita.com/akari-lab">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/akari-lab/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/akari-lab">
-    <img height="20" src="https://badgen.org/img/zenn/akari-lab/articles?style=plastic" />
-  </a>
 </p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akari-lab&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akari-lab&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akari-lab&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akari-lab&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akari-lab&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=akari-lab&theme=gruvbox)
