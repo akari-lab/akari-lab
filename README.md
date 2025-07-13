@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/akari-lab">
+    <img height="20" src="https://komarev.com/ghpvc/?username=akari-lab" />
+  </a>
+  <a href="https://github.com/akari-lab">
+    <img height="20" src="https://img.shields.io/github/followers/akari-lab?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/akari-lab">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/akari-lab/posts.svg" />
+  </a>
+  <a href="http://qiita.com/akari-lab">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/akari-lab/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/akari-lab">
+    <img height="20" src="https://badgen.org/img/zenn/akari-lab/articles?style=plastic" />
+  </a>
+</p>
