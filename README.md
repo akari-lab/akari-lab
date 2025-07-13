@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/akari-lab?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akari-lab&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akari-lab&theme=gruvbox)
